@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science and data science
 - 📫 How to reach me:
   Phone: 703-626-6553
-  Email: kevinz20@vt.edu
+  Email: szhou353@gatech.edu
   
  Note: Due to university honor code, I can't have any public repositories with my code. If you are a recruiter and would like a sample, please email me.
 
